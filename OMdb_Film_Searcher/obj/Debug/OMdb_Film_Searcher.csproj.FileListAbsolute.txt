@@ -1,0 +1,15 @@
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\bin\Debug\OMdb_Film_Searcher.exe.config
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\bin\Debug\OMdb_Film_Searcher.exe
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\bin\Debug\OMdb_Film_Searcher.pdb
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\obj\Debug\OMdb_Film_Searcher.csprojAssemblyReference.cache
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\obj\Debug\OMdb_Film_Searcher.Form1.resources
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\obj\Debug\OMdb_Film_Searcher.Properties.Resources.resources
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\obj\Debug\OMdb_Film_Searcher.csproj.GenerateResource.cache
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\obj\Debug\OMdb_Film_Searcher.csproj.CoreCompileInputs.cache
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\obj\Debug\OMdb_Film_Searcher.csproj.CopyComplete
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\obj\Debug\OMdb_Film_Searcher.exe
+C:\Users\soldini.15134\source\repos\OMdb_Film_Searcher\OMdb_Film_Searcher\obj\Debug\OMdb_Film_Searcher.pdb
